@@ -1,0 +1,9 @@
+*{ font-size: 11px; margin: 0; padding: 0; }
+
+.divShow{ border: 1px solid #ccc; height: 300px; padding: 5px; font-size: 12px; overflow-y: scroll; }
+
+#divMain{ border: 5px solid #ccc; }
+
+#divMain .divTop{ padding: 10px; }
+
+#divMain .divtop .divL{ float: left;  }
